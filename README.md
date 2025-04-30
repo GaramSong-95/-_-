@@ -4,6 +4,9 @@
 
 ![image](https://github.com/user-attachments/assets/747c0882-78b4-472f-9317-879b316be760)
 
+![택배구조도 drawio](https://github.com/user-attachments/assets/f4ad4d04-f6bc-4154-8aad-385cc9d82729)
+
+
 
 
 ## 1.프로젝트 개요
