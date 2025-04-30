@@ -4,7 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/747c0882-78b4-472f-9317-879b316be760)
 
-![택배구조도 drawio](https://github.com/user-attachments/assets/d044fb26-a27e-4463-a0fb-9a52cb16a698)
+![택배구조도 drawio](https://github.com/user-attachments/assets/31b0e600-50b6-43aa-a5db-5af97e743ab1)
+
 
 
 
